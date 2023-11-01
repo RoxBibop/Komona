@@ -1,0 +1,11 @@
+@import './base.css';
+
+@font-face {
+  font-family: 'lovelo';
+  src: url('@/assets/fonts/lovelo.otf') format('truetype');
+}
+@font-face {
+  font-family: 'balgin';
+  src: url('@/assets/fonts/balgin.ttf') format('truetype');
+}
+
